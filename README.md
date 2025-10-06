@@ -1,4 +1,9 @@
-# Muito prazer, sou o Thálik! 👋
+<div align="center">
+  <h2>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Th%C3%A1lik+Parente%21" alt="Typing SVG">
+    </a>
+  </h2> 
 
 Analista de Qualidade de Software em transição de carreira, com foco em testes **funcionais, exploratórios e automatizados**.  
 Experiência em atendimento e liderança de suporte técnico, fortalecendo minha visão voltada para **detalhes, usabilidade** e **experiência do usuário**.  
