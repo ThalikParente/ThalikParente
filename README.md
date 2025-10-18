@@ -14,6 +14,13 @@ Experiência em atendimento e liderança de suporte técnico, fortalecendo minha
 
 <table>
   <tr>
+    <td align="center"><img src="./assets/Qazando.png" alt="Qazando" width="200"/></td>
+    <td>
+      <b>MasterClass  -Qazando</b><br/>
+      Outubro 2025 - Previsão até 2026<br/>
+      Competências: Testes Manuais e Gestão de Testes, Gherkin, Ferramentas e Frameworks de Automação, Testes de API (Cypress, Postman, Rest Assured, Playwright, Robot Framework), Testes Web (Cypress, Selenium, CodeceptJS) Testes Mobile (Appium, Maestro, Espresso, XCUITest), Testes de Performance (k6, JMeter, Wiremock), Git, DevOps e Boas Práticas de QA.
+    </td>
+  <tr>
     <td align="center"><img src="./assets/Lumestack.png" alt="Lumestack" width="80"/></td>
     <td>
       <b>Guardião da Qualidade - LumeStack</b><br/>
