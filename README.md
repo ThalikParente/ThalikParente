@@ -16,7 +16,7 @@ Experiência em atendimento e liderança de suporte técnico, fortalecendo minha
   <tr>
     <td align="center"><img src="./assets/Qazando.png" alt="Qazando" width="200"/></td>
     <td>
-      <b>MasterClass  -Qazando</b><br/>
+      <b>MasterClass - Qazando</b><br/>
       Outubro 2025 - Previsão até 2026<br/>
       Competências: Testes Manuais e Gestão de Testes, Gherkin, Ferramentas e Frameworks de Automação, Testes de API (Cypress, Postman, Rest Assured, Playwright, Robot Framework), Testes Web (Cypress, Selenium, CodeceptJS) Testes Mobile (Appium, Maestro, Espresso, XCUITest), Testes de Performance (k6, JMeter, Wiremock), Git, DevOps e Boas Práticas de QA.
     </td>
@@ -48,10 +48,14 @@ Experiência em atendimento e liderança de suporte técnico, fortalecendo minha
 ---
 
 ## 📂 Projetos
+
+  <div align="left">
+
 - [**Cypress do Zero à Nuvem**](https://github.com/ThalikParente/cypress-do-zero-a-nuvem)  
   Projeto prático desenvolvido no curso da Udemy, abordando automação de testes com Cypress, integração contínua (CI) com GitHub Actions e boas práticas de QA.  
 
 ---
+  </div>
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -62,5 +66,7 @@ Experiência em atendimento e liderança de suporte técnico, fortalecendo minha
 ## 📬 Vamos conversar?
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thálik-parente/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalik.aparente@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thalik6)
+
 ---
 
