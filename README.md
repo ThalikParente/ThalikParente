@@ -51,8 +51,14 @@ Experiência em atendimento e liderança de suporte técnico, fortalecendo minha
 
   <div align="left">
 
-- [**Cypress do Zero à Nuvem**](https://github.com/ThalikParente/cypress-do-zero-a-nuvem)  
-  Projeto prático desenvolvido no curso da Udemy, abordando automação de testes com Cypress, integração contínua (CI) com GitHub Actions e boas práticas de QA.  
+- 💥 [**Cypress Heroes**](https://github.com/ThalikParente/qa-projeto-cypress-heroes)  
+  Projeto desenvolvido para testar a aplicação oficial Cypress Heroes, abordando cenários de autenticação, criação e gerenciamento de heróis. Inclui testes funcionais, negativos e de interface, aplicando boas práticas de automação com Page Objects e estrutura modular de testes.
+
+- 💳 [**Real World App**](https://github.com/ThalikParente/qa-projeto-cypress)  
+  Automação da aplicação Real World App, criada pela equipe do Cypress, simulando um sistema financeiro real com fluxos de login, cadastro e transações. Utiliza Page Objects para otimizar a manutenção e a reutilização de código nos testes end-to-end.
+
+- ☁️ [**Cypress do Zero à Nuvem**](https://github.com/ThalikParente/cypress-do-zero-a-nuvem)  
+  Projeto prático desenvolvido no curso da Udemy, abordando automação de testes com Cypress, integração contínua (CI) via GitHub Actions, e aplicação de boas práticas de QA para pipelines automatizados.
 
 ---
   </div>
