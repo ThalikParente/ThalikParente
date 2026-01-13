@@ -66,7 +66,6 @@ Experiência em atendimento e liderança de suporte técnico, fortalecendo minha
 ## 🛠️ Tecnologias e Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=cypress,html,css,js,github,postman,vscode,figma)](https://skillicons.dev)<br><br>
-![ThalikParente Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thalikparente&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ## 📬 Vamos conversar?
